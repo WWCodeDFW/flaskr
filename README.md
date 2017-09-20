@@ -17,12 +17,12 @@ $ export FLASK_APP=flaskr
 $ export FLASK_DEBUG=true
 ```
 
-Start our web server to run Flaskr.
-```
-$ flask run
-```
-
 Initialize the database (only do this once unless you want to delete any blog posts you create).
 ```
 $ flask initdb
+```
+
+Start our web server to run Flaskr.
+```
+$ flask run
 ```
