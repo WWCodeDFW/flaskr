@@ -1,0 +1,10 @@
+flaskr.db
+*.pyc
+*.swp
+*.swo
+
+*.egg-info/
+.eggs/
+build/
+dist/
+__pycache__/
