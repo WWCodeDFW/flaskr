@@ -1,8 +1,8 @@
 # Flaskr
-A minimal blog application built with the Python web framework Flask that supports one user's posting entries. Initial code from: http://flask.pocoo.org/docs/0.12/tutorial/.
+Flaskr is a minimal blog application built with the Python web framework Flask that supports one user's posting entries. This is the code produced by following the tutorial at: http://flask.pocoo.org/docs/0.12/tutorial/.
 
 # Requirements
-* Python
+* Python 2.7 or Python 3.4+
 
 ## Installation
 Install the app from the root directory (where setup.py lives).
